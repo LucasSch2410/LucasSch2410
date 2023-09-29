@@ -8,7 +8,7 @@
 ## 🧑‍💻 Current Stack
 
 - ⚡️ Main language: `JavaScript`
-- 🗃️ BackEnd: `NodeJs`
+- 🗃️ BackEnd: `NodeJs`, `SQL`
 - 🎉 FrontEnd: `ReactJs`, `HTML5`, `CSS3`, `JavaScript`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version Code Control: `Git & GitHub`
