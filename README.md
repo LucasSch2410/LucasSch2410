@@ -1,19 +1,19 @@
 ### Hi there 👋
+[![wakatime](https://wakatime.com/badge/user/018dbee2-09f0-428a-b832-e857f4f2f21e.svg)](https://wakatime.com/@018dbee2-09f0-428a-b832-e857f4f2f21e)
 
 ## 💬 About
 
-- 🧑‍💻 I’m currently working at [Pichau](https://www.pichau.com.br) developing hotsites to companies like Intel, AMD, AOC, NVIDIA and the Pichau ecommerce website, with a traffic of more than 10 million access per month.
-- 🚀 I’m currently learning Full-Stack development in [Rocketseat](https://rocketseat.com.br)
+- 🧑‍💻 I’m currently working at [Pichau](https://www.sethtotal.com.br).
+- 💬 Ask me about PHP, Laravel, JS, Python
 
 ## 🧑‍💻 Current Stack
 
-- ⚡️ Main language: `JavaScript` `C` `Python`
-- 🗃️ BackEnd: `NodeJs`, `SQL`
-- 🎉 FrontEnd: `ReactJs`, `HTML5`, `CSS3`, `JavaScript`
+- ⚡️ Main language: `JavaScript` `PHP`
+- 🗃️ BackEnd: `Laravel`, `PostgreSQL`
+- 🎉 FrontEnd: `Vue`, `HTML5`, `CSS3`, `JavaScript`
 - 🎨 Layout Design: `Figma`
 - 📦️ Version Code Control: `Git & GitHub`
-- 🔨 Tools: `VsCode`, `Markdown`, `Obsidian`, `Notion`
-- 🚀 I'm mostly active within the 'Rocketseat Community'
+- 🔨 Tools: `VsCode`, `Markdown`, `Obsidian`, `Notion`, `PHPStorm`
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/schroederdev/)
