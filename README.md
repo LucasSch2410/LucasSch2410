@@ -1,6 +1,7 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/018dbee2-09f0-428a-b832-e857f4f2f21e.svg)](https://wakatime.com/@018dbee2-09f0-428a-b832-e857f4f2f21e)
 
+
 ## 💬 About
 
 - 🧑‍💻 I’m currently working at [Pichau](https://www.sethtotal.com.br).
