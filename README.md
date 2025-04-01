@@ -4,7 +4,7 @@
 
 ## 💬 About
 
-- 🧑‍💻 I’m currently working at [Pichau](https://www.sethtotal.com.br).
+- 🧑‍💻 I’m currently working at [Seth](https://www.sethtotal.com.br).
 - 💬 Ask me about PHP, Laravel, JS, Python
 
 ## 🧑‍💻 Current Stack
